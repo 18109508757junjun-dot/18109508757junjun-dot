@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm [庞俊卿] 👋
 
-<!--
-**18109508757junjun-dot/18109508757junjun-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 教育背景 (Education)
+* **香港城市大学 (CityU)** | 人工智能 (MSc in AI) | 研究生在读
+* **西南大学 (SWU)** | 网络工程 | 本科 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 技术栈 (Technical Skills)
+* **核心语言：** 精通 **C++** (STL, 内存管理, 多态继承, C++11/14/17)
+* **游戏引擎：** **Unreal Engine 5** (C++/蓝图混合开发, Actor生命周期, 组件化架构, 物理系统)
+* **计算机基础：** 扎实的计算机基础功底 , 常用算法与数据结构，操作系统，计算机网络
+* **AI 领域：** 深度学习安全、对抗性迁移攻击检测与防御
+
+---
+
+### 🚀 核心作品集 (Project Portfolio)
+
+> 每个项目均包含 C++ 底层实现，详细代码与文档请点击标题跳转至对应仓库。
+
+#### 1️⃣ [第三人人称射击游戏 (C++ / UE5)](你的仓库链接)
+*一款高扩展性的射击底层系统，侧重于架构解耦与高性能判定。*
+* **技术点：** `UInterface` 接口解耦伤害系统、`LineTrace` 射线检测、`Niagara` 粒子集成。
+* **亮点：** 实现了武器系统与角色逻辑的完全分离。
+
+#### 2️⃣ [俯视角坦克大战游戏 (C++ / UE5)](你的仓库链接)
+*经典的坦克大战重构版，展示 C++ 继承体系与物理数学应用。*
+* **技术点：** `FMath::RInterpTo` 平滑插值、`FTimerHandle` 性能优化、虚函数实现表现差异化。
+* **亮点：** 解决了高帧率下的旋转抖动问题，优化了 AI 检测的 CPU 开销。
+
+#### 3️⃣ [组件化地牢交互系统 (C++ / UE5)](你的仓库链接)
+*基于“触发-响应”机制的模块化解谜框架。*
+* **技术点：** `FindComponentByClass` 动态链接、`SphereTrace` 空间交互判定、组件化 Mover 设计。
+* **亮点：** 支持机关与目标的自由组合，无需硬编码。
+
+#### 4️⃣ [物理机制挑战闯关游戏 (Pure Blueprint)](你的仓库链接)
+*纯蓝图开发的快速原型，展示关卡设计与物理引擎应用。*
+* **技术点：** Physics Constraints (物理约束)、Timeline 动画、检查点 (Checkpoint) 系统。
+* **亮点：** 完整实现了从角色死亡到关卡重置的游戏闭环逻辑。
+
+#### 5️⃣ [障碍跳跃 (C++ / UE5)](你的仓库链接)
+*侧重于游戏物体的程序化运动控制与向量数学应用。*
+
+* **技术点：** FMath 向量运算、DeltaTime 帧率补偿、程序化路径（Waypoint System）。
+
+* **亮点：** 实现了可配置的往复、环形移动平台及自转障碍，通过纯 C++ 算法确保了复杂物理机关在不同帧率下的运动同步。
+---
+
+### 📺 视频演示 (Video Demo)
+* **Bilibili 作品集全集：** [点击查看演示视频](你的B站视频链接)
+    *(包含上述所有项目的实机运行画面、UI 反馈及技术要点展示)*
+
+---
+
+### 📫 联系我 (Contact)
+* **Email:** [你的邮箱]
+* **GitHub:** [你的 GitHub 主页链接]
+* **Location:** Hong Kong / Chongqing
+
+---
+*"扎实的 C++ 工程功底 + 计算机科班视野 = 创造无限可能的游戏世界"*
